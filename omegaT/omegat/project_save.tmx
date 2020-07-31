@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-GB"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Preface For scientists and engineers, an ability to effectively communicate can be critical.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62520" changedate="20200731T065837Z" creationid="62520" creationdate="20200731T065837Z">
+        <seg>对于科学家和工程师来说，高效沟通的能力至关重要</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
